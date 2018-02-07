@@ -22,7 +22,7 @@
 
 
 -------------BXH token address---------
-	
+	0x69B429ee513c297d8152f82C48c72e74BE055253
 
 -----------crowd sale address------------
 	
